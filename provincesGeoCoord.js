@@ -1,7 +1,8 @@
 function getData(){
 	test update a new gitHub;
 	git tracks change a file;
-	git changed;
+	git changed; of files
+		GIT ;
 }
 
 
