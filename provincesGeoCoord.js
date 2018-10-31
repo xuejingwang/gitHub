@@ -1,3 +1,8 @@
+function getData(){
+	test gitHub;
+}
+
+
 function getGeocoordByMapName(map_name){
 	var pinyin_map_name = "";
 	var geoCoordMap = {};
