@@ -1,5 +1,6 @@
 function getData(){
 	test update a new gitHub;
+	git tracks change;
 }
 
 
